@@ -54,5 +54,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 </p>
 <hr/>
 
-![](https://komarev.com/ghpvc/?username=mirkoeffe&color=191970&label=VISITORS&style=flta-square) [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Generic badge](https://img.shields.io/badge/MADE-WITH%20LOVE-red.svg)](https://shields.io/) <a href="mailto@mirkoeffe91@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mirkoeffe&color=191970&label=VISITORS&style=flta-square"/> <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/></a> <a href="https://shields.io/"/><img src="https://img.shields.io/badge/MADE-WITH%20LOVE-red.svg"/></a> <a href="https://github.com/mirkoeffe/mirkoeffe/issues"><img src="https://img.shields.io/badge/Send%20me-a%20message-1abc9c.svg"></a>
+</p>
 
