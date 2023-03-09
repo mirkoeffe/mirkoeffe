@@ -49,6 +49,6 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 </p>
 <hr/>
 <p align="center">
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&include_all_commits=true&border_radius=6.5" /> <img width="55.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&include_all_commits=true&border_radius=6.5" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
 </p>
 
