@@ -39,6 +39,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 #### WHAT I LIKE
@@ -50,7 +51,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 </p>
 <hr/>
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&include_all_commits=true&border_radius=6.5" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&border_radius=6.5&count_private=true" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
 </p>
 <hr/>
 
