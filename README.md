@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: to be able to create websites with HTML, CSS and JavaScript.
+I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with HTML, CSS and JavaScript**.
 
 <hr/>
 
@@ -33,9 +33,11 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 #### WHAT I WANT TO LEARN
 <p align="left">
+  <img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+  <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
@@ -43,7 +45,6 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <p align="left">
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-  <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img alt="Polkadot" src="https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white" />
   <img alt="Tether" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
 </p>
@@ -51,4 +52,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&include_all_commits=true&border_radius=6.5" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
 </p>
+<hr/>
+
+![](https://komarev.com/ghpvc/?username=mirkoeffe&color=191970&label=VISITORS&style=flta-square) [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) [![Generic badge](https://img.shields.io/badge/MADE-WITH%20LOVE-red.svg)](https://shields.io/) <a href="mailto@mirkoeffe91@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
 
