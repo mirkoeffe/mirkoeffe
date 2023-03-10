@@ -29,7 +29,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 #### WHAT I'M LEARNING
 
 - Responsive Web Design by freeCodeCamp (HTML & CSS) <br>
-<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#build-a-product-landing-page-project"><img alt="Free Code Camp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-transforms-by-building-a-penguin"><img alt="Free Code Camp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 #### WHAT I WANT TO LEARN
 <p align="left">
