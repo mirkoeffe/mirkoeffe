@@ -19,19 +19,24 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <tr><td><img alt="Spanish" height="15" src="https://user-images.githubusercontent.com/66520536/223907660-26f95e16-361e-44ae-b294-e921fa762f7b.svg" /> - Spanish ★☆☆</a></td></tr>
 </table>
 
-#### WHAT I'VE DONE
+### **WHAT I'VE DONE**
 
 - HTML Tutorial for Beginners by Dave Gray <br>
 <a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 - CSS Tutorial for Beginners by Dave Gray <br>
 <a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 
-#### WHAT I'M LEARNING
+### **WHAT I'M LEARNING**
 
 - Responsive Web Design by freeCodeCamp (HTML & CSS) <br>
-<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design#learn-css-transforms-by-building-a-penguin"><img alt="Free Code Camp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-personal-portfolio-webpage-project"><img alt="Free Code Camp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
-#### WHAT I WANT TO LEARN
+### **HERE YOU CAN CHECK ALL MY WORKS WHILE I'M BUILDING MY PERSONAL WEBSITE**
+<p align="left">
+<a href="https://codepen.io/mirkoeffe"><img alt="Code Pen" src=https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white /></a>
+</p>
+
+### **WHAT I WANT TO LEARN**
 <p align="left">
   <img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -42,7 +47,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-#### WHAT I LIKE
+### **WHAT I LIKE**
 <p align="left">
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
