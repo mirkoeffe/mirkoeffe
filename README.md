@@ -25,11 +25,15 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 - CSS Tutorial for Beginners by Dave Gray <br>
 <a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+- Responsive Web Design by freeCodeCamp <br>
+<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 ### **WHAT I'M LEARNING**
 
-- Responsive Web Design by freeCodeCamp (HTML & CSS) <br>
-<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/#build-a-personal-portfolio-webpage-project"><img alt="Free Code Camp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+- JavaScript Programming - Full Course by Per Harald Borgen <br>
+<a href="https://youtu.be/jS4aFq5-91M"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+- JavaScript Algorithms and Data Structures by freeCodeCamp <br>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 ### **HERE YOU CAN CHECK ALL MY WORKS WHILE I'M BUILDING MY PERSONAL WEBSITE**
 <p align="left">
@@ -39,7 +43,6 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
   <img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
