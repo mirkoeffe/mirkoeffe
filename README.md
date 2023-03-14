@@ -22,22 +22,22 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I'VE DONE**
 
 - HTML Tutorial for Beginners by Dave Gray <br>
-<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> 
+<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> 
 - CSS Tutorial for Beginners by Dave Gray <br>
-<a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 - Responsive Web Design by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 ### **WHAT I'M LEARNING**
 
 - JavaScript Programming - Full Course by Dave Gray <br>
-<a href="https://www.youtube.com/watch?v=EfAl9bwzVZk&t=2773s"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://www.youtube.com/watch?v=EfAl9bwzVZk&t=2773s" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 ### **HERE YOU CAN CHECK ALL MY WORKS WHILE I'M BUILDING MY PERSONAL WEBSITE**
 <p align="left">
-<a href="https://codepen.io/mirkoeffe"><img alt="Code Pen" src=https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white /></a>
+<a href="https://codepen.io/mirkoeffe" target="_blank"><img alt="Code Pen" src=https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white /></a>
 </p>
 
 ### **WHAT I WANT TO LEARN**
