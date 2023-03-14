@@ -30,8 +30,8 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 ### **WHAT I'M LEARNING**
 
-- JavaScript Programming - Full Course by Per Harald Borgen <br>
-<a href="https://youtu.be/jS4aFq5-91M"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+- JavaScript Programming - Full Course by Dave Gray <br>
+<a href="https://www.youtube.com/watch?v=EfAl9bwzVZk"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
