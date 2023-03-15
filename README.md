@@ -31,7 +31,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I'M LEARNING**
 
 - JavaScript Full Course for Beginners by Dave Gray <br>
-<a href="https://www.youtube.com/watch?v=EfAl9bwzVZk&t=2773s" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://www.youtube.com/watch?v=EfAl9bwzVZk&t=2775s" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - JavaScript Programming - Full Course by Per Harald Borgen <br>
@@ -44,12 +44,11 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
-  <img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Hyperledger" src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+  <a href="https://www.youtube.com/watch?v=1srFmjt1Ib0"><img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /></a>
+  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
-  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
+  <a href="https://www.youtube.com/watch?v=gieEQFIfgYc"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 </p>
 
 ### **WHAT I LIKE**
