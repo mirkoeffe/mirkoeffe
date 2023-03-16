@@ -60,7 +60,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 </p>
 <hr/>
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&border_radius=6.5&count_private=true" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&border_radius=6.5&include_all_commits=true" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
 </p>
 <hr/>
 
