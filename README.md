@@ -33,7 +33,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 - JavaScript Full Course for Beginners by Dave Gray <br>
 <a href="https://www.youtube.com/watch?v=EfAl9bwzVZk&t=7541s" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - JavaScript Programming - Full Course by Per Harald Borgen <br>
 <a href="https://www.youtube.com/watch?v=jS4aFq5-91M&t=5485s" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
