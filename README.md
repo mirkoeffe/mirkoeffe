@@ -38,7 +38,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - JavaScript Programming - Full Course by Per Harald Borgen <br>
-<a href="https://youtu.be/jS4aFq5-91M?t=11475" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://youtu.be/jS4aFq5-91M?t=12785" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
