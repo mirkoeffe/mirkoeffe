@@ -1,7 +1,7 @@
 <h3 align="center">Hi and Welcome 👋, I'm Mirko</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href=https://mirkoeffe.shop><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://techhub.social/@mirkoeffe"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://techhub.social/@mirkoeffe"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a> 
 </p>
 
 I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with HTML, CSS and JavaScript**.
@@ -16,6 +16,11 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <tr><td><img alt="German" height="15" src="https://user-images.githubusercontent.com/66520536/223906722-9795a680-8250-4389-980f-7af9f7835045.svg" /> - German ★★☆</a></td></tr>
   <tr><td><img alt="Spanish" height="15" src="https://user-images.githubusercontent.com/66520536/223907660-26f95e16-361e-44ae-b294-e921fa762f7b.svg" /> - Spanish ★☆☆</a></td></tr>
 </table>
+
+### **MY PORTFOLIO WEBPAGE**
+<p align="left">
+<a href=https://mirkoeffe.shop><img  alt="My Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 ### **WHAT I'VE DONE**
 
@@ -33,12 +38,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - JavaScript Programming - Full Course by Per Harald Borgen <br>
-<a href="https://youtu.be/jS4aFq5-91M?t=5492" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-
-### **HERE YOU CAN CHECK ALL MY WORKS WHILE I'M BUILDING MY PERSONAL WEBSITE**
-<p align="left">
-<a href="https://codepen.io/mirkoeffe" target="_blank"><img alt="Code Pen" src=https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white /></a>
-</p>
+<a href="https://youtu.be/jS4aFq5-91M?t=11475" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
