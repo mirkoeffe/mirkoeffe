@@ -24,20 +24,22 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 ### **WHAT I'VE DONE**
 
-- HTML Tutorial for Beginners by Dave Gray <br>
-<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> 
-- CSS Tutorial for Beginners by Dave Gray <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course">HTML Tutorial for Beginners by Dave Gray</a> - Github link <br>
+<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> - Github link <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course2">Order Summary Component by Madison Kanna</a> - Github link <br>
+<a href="https://youtu.be/SR5GxoFhIAU" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/CSS_couse/gitdagary_course">CSS Tutorial for Beginners by Dave Gray</a> - Github link <br>
 <a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-- Responsive Web Design by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
-- JavaScript Full Course for Beginners by Dave Gray <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/freeCodeCamp/responsive_Web_Design">Responsive Web Design by freeCodeCamp</a> - Github link <br>
+<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a> <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/gitdagary_course">JavaScript Full Course for Beginners by Dave Gray</a> - Github link <br>
 <a href="https://youtu.be/EfAl9bwzVZk"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I'M LEARNING**
 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
-- JavaScript Programming - Full Course by Per Harald Borgen <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/course">JavaScript Programming - Full Course by Per Harald Borgen</a> - Github link <br>
 <a href="https://youtu.be/jS4aFq5-91M?t=18874"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I WANT TO LEARN**
@@ -48,6 +50,10 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
   <a href="https://www.youtube.com/watch?v=gieEQFIfgYc"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
 </p>
+
+### **EXERCISES**
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises">JavaScript Projects from Coding Nepal</a> - Github link <br>
+  <a href="https://www.youtube.com/watch?v=9HUlUnM3UG8&list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3&index=2"><img alt="Coding Nepal" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 ### **WHAT I LIKE**
 <p align="left">
