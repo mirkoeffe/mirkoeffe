@@ -30,15 +30,15 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 - Responsive Web Design by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+- JavaScript Full Course for Beginners by Dave Gray <br>
+<a href="https://youtu.be/EfAl9bwzVZk"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I'M LEARNING**
 
-- JavaScript Full Course for Beginners by Dave Gray <br>
-<a href="https://youtu.be/EfAl9bwzVZk?t=25880" target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - JavaScript Programming - Full Course by Per Harald Borgen <br>
-<a href="https://youtu.be/jS4aFq5-91M?t=18874 target="_blank"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+<a href="https://youtu.be/jS4aFq5-91M?t=18874"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
