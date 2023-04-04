@@ -4,7 +4,14 @@
   <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://techhub.social/@mirkoeffe"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a> 
 </p>
 
-I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with HTML, CSS and JavaScript**.
+I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with at least HTML, CSS and JavaScript**.
+
+<h3 align="center"><b>LANGUAGES</b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
 <hr/>
 
@@ -25,7 +32,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I'VE DONE**
 
 - <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course">HTML Tutorial for Beginners by Dave Gray</a> - Github link <br>
-<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> - Github link <br>
+<a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> <br>
 - <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course2">Order Summary Component by Madison Kanna</a> - Github link <br>
 <a href="https://youtu.be/SR5GxoFhIAU" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
 - <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/CSS_couse/gitdagary_course">CSS Tutorial for Beginners by Dave Gray</a> - Github link <br>
