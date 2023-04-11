@@ -6,10 +6,10 @@
 
 I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with at least HTML, CSS and JavaScript**.
 
-<h3 align="center"><b>LANGUAGES</b></h3>
+<h3 align="center"><b>LANGUAGES I HAVE LEARNT AND I'M TRYING TO IMPROVE</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
@@ -41,13 +41,13 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a> <br>
 - <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/gitdagary_course">JavaScript Full Course for Beginners by Dave Gray</a> - Github link <br>
 <a href="https://youtu.be/EfAl9bwzVZk"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/course">JavaScript Programming - Full Course by Per Harald Borgen</a> - Github link <br>
+<a href="https://youtu.be/jS4aFq5-91M"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I'M LEARNING**
 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
-- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/course">JavaScript Programming - Full Course by Per Harald Borgen</a> - Github link <br>
-<a href="https://youtu.be/jS4aFq5-91M?t=18874"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
