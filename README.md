@@ -59,8 +59,10 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 </p>
 
 ### **EXERCISES**
-- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises">JavaScript Projects from Coding Nepal</a> - Github link <br>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/Coding%20Nepal">JavaScript Projects from Coding Nepal</a> - Github link <br>
   <a href="https://www.youtube.com/watch?v=H-LvaBNLDSQ&list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3&index=5"><img alt="Coding Nepal" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+- <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/JavaScript%20King">JavaScript Projects from JavaScript King</a> - Github link <br>
+  <a href="https://youtu.be/EWv2jnhZErc"><img alt="Coding Nepal" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 ### **WHAT I LIKE**
 <p align="left">
