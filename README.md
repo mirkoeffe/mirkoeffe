@@ -52,7 +52,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I'M LEARNING**
 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
