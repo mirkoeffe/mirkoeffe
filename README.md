@@ -53,10 +53,11 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 - JavaScript Algorithms and Data Structures by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/learn-about-functional-programming" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+- Game Development with LÖVE 2D and Lua by Steve's Teacher<br>
+<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/lua_course/steve's_teacher" target="_blank"><img alt="Lua Course" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://youtu.be/I549C6SmUnk"><img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /></a>
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=1srFmjt1Ib0"><img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /></a>
   <a href="https://www.youtube.com/watch?v=f2EqECiTBL8"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
   <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
