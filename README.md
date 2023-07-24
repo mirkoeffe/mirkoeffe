@@ -72,7 +72,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 - Code with Ania Kubów<br>
 <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/Ania%20Kub%C3%B2w"><img alt="Code with Ania Kubów" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.youtube.com/watch?v=DRaWr0Dcbl0&list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_"><img alt="Ania Kubów" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 - 15 Vanilla Projects from freeCodeCamp<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/vanilla_fCC"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://youtu.be/3PHXvlpOkf4?t=5181"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/vanilla_fCC"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://youtu.be/3PHXvlpOkf4?t=6506"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 ### **WHAT I LIKE**
 <p align="left">
