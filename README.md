@@ -53,6 +53,8 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 ### **WHAT I'M LEARNING**
 
+- CS50's Introduction to Computer Science<br>
+<a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?linked_from=autocomplete-prequery&c=autocomplete-prequery&position=2" target="_blank"><img alt="Lua Course" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/></a> <a href="https://youtu.be/I549C6SmUnk"></a>
 - Front End Development Libraries by freeCodeCamp <br>
 <a href="https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-proptypes-to-define-the-props-you-expect" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - Game Development with LÖVE 2D and Lua by Steve's Teacher<br>
