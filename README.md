@@ -21,7 +21,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
  Italian ★★★</td></tr>
   <tr><td><img alt="Italian" height="15" src="https://user-images.githubusercontent.com/66520536/223906279-3a400349-c8f5-48a8-b929-2ac82d60892e.svg" /> - English ★★★</a></td></tr>
   <tr><td><img alt="German" height="15" src="https://user-images.githubusercontent.com/66520536/223906722-9795a680-8250-4389-980f-7af9f7835045.svg" /> - German ★★☆</a></td></tr>
-  <tr><td><img alt="Spanish" height="15" src="https://user-images.githubusercontent.com/66520536/223907660-26f95e16-361e-44ae-b294-e921fa762f7b.svg" /> - Spanish ★☆☆</a></td></tr>
+  <tr><td><img alt="Spanish" height="15" src="https://user-images.githubusercontent.com/66520536/223907660-26f95e16-361e-44ae-b294-e921fa762f7b.svg" /> - Spanish ★★☆</a></td></tr>
 </table>
 
 ### **MY PORTFOLIO WEBPAGE**
