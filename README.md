@@ -54,7 +54,7 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 ### **WHAT I'M LEARNING**
 
 - Front End Development Libraries by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/learn/front-end-development-libraries/" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
+<a href="https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-proptypes-to-define-the-props-you-expect" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a>
 - Game Development with LÖVE 2D and Lua by Steve's Teacher<br>
 <a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/lua_course/steve's_teacher" target="_blank"><img alt="Lua Course" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://youtu.be/I549C6SmUnk"><img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /></a>
 
