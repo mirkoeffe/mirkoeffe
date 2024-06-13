@@ -37,16 +37,6 @@ I've always been fascinated by coding but I've spent most of my life behind the 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### **EXERCISES**
-- JavaScript Projects from Coding Nepal<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/Coding%20Nepal"><img alt="JavaScript Projects from Coding Nepal" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.youtube.com/watch?v=H-LvaBNLDSQ&list=PLpwngcHZlPadhRwryAXw3mJWX5KH3T5L3&index=5"><img alt="Coding Nepal" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-- HTML CSS JS Projects from JavaScript King<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/JavaScript%20King"><img alt="HTML CSS JS Projects from JavaScript King" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://youtu.be/EWv2jnhZErc"><img alt="JavaScript King" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-- Code with Ania Kubów<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/Ania%20Kub%C3%B2w"><img alt="Code with Ania Kubów" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.youtube.com/watch?v=DRaWr0Dcbl0&list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_"><img alt="Ania Kubów" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-- 15 Vanilla Projects from freeCodeCamp<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Exercises/vanilla_fCC"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://youtu.be/3PHXvlpOkf4?t=11773"><img alt="15 Vanilla Projects from freeCodeCamp" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-
 ### **WHAT I LIKE**
 <p align="left">
   <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
