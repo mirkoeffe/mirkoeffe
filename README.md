@@ -29,37 +29,6 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 <a href=https://mirkoeffe.shop><img  alt="My Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
-### **WHAT I'VE DONE**
-
-- HTML Tutorial for Beginners by Dave Gray  <br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course"><img alt="HTML Tutorial for Beginners by Dave Gray" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://www.youtube.com/watch?v=mJgBOIoGihA&list=PL0Zuz27SZ-6M1Uopt6_VL3gf3cpMnwavm" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> <br>
-- Order Summary Component by Madison Kanna <br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/HTML_course/course2"><img alt="Order Summary Component by Madison Kanna" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://youtu.be/SR5GxoFhIAU" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://youtu.be/SR5GxoFhIAU" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-- CSS Tutorial for Beginners by Dave Gray<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/CSS_couse/gitdagary_course"><img alt="CSS Tutorial for Beginners by Dave Gray" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.youtube.com/watch?v=0W6qz0-aDaM&list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-- Responsive Web Design by freeCodeCamp<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/freeCodeCamp/responsive_Web_Design"><img alt="Responsive Web Design by freeCodeCamp" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.freecodecamp.org/certification/mirko_effe/responsive-web-design" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <br>
-- JavaScript Algorithms and Data Structures by freeCodeCamp <br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/freeCodeCamp/JavaScript_Algorithms_and_Data_Structures"><img alt="Responsive Web Design by freeCodeCamp" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a> <img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-- JavaScript Full Course for Beginners by Dave Gray<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/gitdagary_course"><img alt="JavaScript Full Course for Beginners by Dave Gray" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://youtu.be/EfAl9bwzVZk"><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-- JavaScript Programming - Full Course by Per Harald Borgen<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/JavaScript_course/course"><img alt="JavaScript Programming - Full Course by Per Harald Borgen" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://youtu.be/jS4aFq5-91M"><img alt="JS " src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></a>
-
-### **WHAT I'M LEARNING**
-
-- CS50's Introduction to Computer Science<br>
-<a href="https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?linked_from=autocomplete-prequery&c=autocomplete-prequery&position=2" target="_blank"><img alt="Lua Course" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white"/></a> <a href="https://youtu.be/I549C6SmUnk"></a>
-- Front End Development Libraries by freeCodeCamp <br>
-<a href="https://www.freecodecamp.org/learn/front-end-development-libraries/react/use-proptypes-to-define-the-props-you-expect" target="_blank"><img alt="freeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" /></a> <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> <img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img alt="REDUX" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-- Game Development with LÖVE 2D and Lua by Steve's Teacher<br>
-<a href="https://github.com/mirkoeffe/WDEV-Course/tree/master/Courses/lua_course/steve's_teacher" target="_blank"><img alt="Lua Course" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://youtu.be/I549C6SmUnk"><img alt="LUA" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" /></a>
-
 ### **WHAT I WANT TO LEARN**
 <p align="left">
   <a href="https://www.youtube.com/watch?v=f2EqECiTBL8"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
