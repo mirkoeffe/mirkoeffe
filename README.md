@@ -1,10 +1,11 @@
 <h3 align="center">Hi and Welcome 👋, I'm Mirko</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://techhub.social/@mirkoeffe"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 </p>
 
-I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics my goal for this year is: **be able to create websites with at least HTML, CSS and JavaScript**.
+I've always been fascinated by coding but I've spent most of my life behind the bar counter making drinks, so I finally chose to start learning from the basics.
+I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be able to create websites by using all the languages I've learnt**.
 
 <h3 align="center"><b>LANGUAGES I HAVE LEARNT AND I'M TRYING TO IMPROVE</b></h3>
 <p align="center">
