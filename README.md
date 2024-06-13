@@ -31,10 +31,10 @@ I've always been fascinated by coding but I've spent most of my life behind the 
 
 ### **WHAT I WANT TO LEARN**
 <p align="left">
-  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8"><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
-  <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" /></a>
-  <a href="https://www.youtube.com/watch?v=gieEQFIfgYc"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### **EXERCISES**
