@@ -54,6 +54,7 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <hr/>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mirkoeffe&color=191970&label=VISITORS&style=flta-square"/> <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/></a> <a href="https://shields.io/"/><img src="https://img.shields.io/badge/MADE-WITH%20LOVE-red.svg"/></a> <a href="https://github.com/mirkoeffe/mirkoeffe/issues"><img src="https://img.shields.io/badge/Send%20me-a%20message-1abc9c.svg"></a>
+<img src="https://komarev.com/ghpvc/?username=mirkoeffe&color=191970&label=VISITORS&style=flta-square"/> <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/></a> <a href="https://shields.io/"/><img src="https://img.shields.io/badge/MADE-WITH%20LOVE-red.svg"/></a> <a href="https://github.com/mirkoeffe/mirkoeffe/issues"><img src="https://img.shields.io/badge/Send%20me-a%20message-1abc9c.svg"></a>   <a href="https://www.codewars.com/users/mirkoeffe/badges/micro" /><img alt="CodeWars" src="https://codewars.com/users/mirkoeffe/badges/micro" /></a>
+
 </p>
 
