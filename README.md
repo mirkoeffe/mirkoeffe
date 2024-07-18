@@ -10,7 +10,7 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <h3 align="center"><b>LANGUAGES I HAVE LEARNT AND I'M TRYING TO IMPROVE</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 
@@ -36,7 +36,6 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </p>
 
 ### **WHAT I LIKE**
