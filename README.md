@@ -10,7 +10,7 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <h3 align="center"><b>LANGUAGES I HAVE LEARNT AND I'M TRYING TO IMPROVE</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
   </a>
 </p>
 
