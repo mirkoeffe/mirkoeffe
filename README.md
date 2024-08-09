@@ -47,7 +47,8 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <hr/>
 <p align="center">
 <img width="40%" src="https://github-readme-stats-mirkoeffe.vercel.app/api?username=mirkoeffe&show_icons=true&theme=nord&border_radius=6.5&include_all_commits=true" /> <img width="58.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirkoeffe&theme=nord_dark" />
-  <img width="30%" src="https://github-readme-stats-mirkoeffe.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /> <img width="33%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=4" />
+<img width="33%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=4" />
+<a href="https://github.com/mirkoeffe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkoeffe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="21%"/></a>
 </p> 
 <hr/>
 
