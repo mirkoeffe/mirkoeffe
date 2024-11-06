@@ -1,4 +1,5 @@
 <h3 align="center">Hi and Welcome 👋, I'm Mirko</h3>
+<h4 align="center">Intern Full-Stack Developer --> &nbsp;&nbsp;&nbsp;<a href="https://start.arbo-holz.de/"><img width="40" src="https://d838b5c41de7e53288b1354424e7038e.cdn.bubble.io/f1716635627193x941333266104411800/logo%20%281%29.svg"/> </h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirko-fede/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/mirko_effe"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.instagram.com/mirko_effe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -10,7 +11,7 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <h3 align="center"><b>LANGUAGES I HAVE LEARNT AND I'M TRYING TO IMPROVE</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,ts" />
   </a>
 </p>
 
@@ -25,6 +26,15 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
   <tr><td><img alt="Spanish" height="15" src="https://user-images.githubusercontent.com/66520536/223907660-26f95e16-361e-44ae-b294-e921fa762f7b.svg" /> - Spanish ★★☆</a></td></tr>
 </table>
 
+### **WHAT I'M LEARNING AND WORKING ON FOR MY NEW JOB POSITION**
+<p align="left">
+  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img alt="Swagger OpenAPI" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+</p>
+
 ### **MY PORTFOLIO WEBPAGE**
 <p align="left">
 <a href=https://mirkoeffe.shop><img  alt="My Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -34,7 +44,6 @@ I've started the <b>Iron Hack</b> bootcamp and my goal for this year is: **be ab
 <p align="left">
   <img alt="Open Zeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ### **WHAT I LIKE**
